@@ -1,4 +1,4 @@
-package EjerciciosJava.Ejercicios;
+package JavaProyectos.Ejercicios;
 
 public class Calculosbasicos {
     public static void main(String[] args) {

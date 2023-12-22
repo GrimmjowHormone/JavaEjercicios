@@ -1,4 +1,4 @@
-package EjerciciosJava.Ejercicios;
+package JavaProyectos.Ejercicios;
 import java.util.Scanner;
 public class Ejercicio3 {
     public static void main(String[] args) {
