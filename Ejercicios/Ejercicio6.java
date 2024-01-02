@@ -24,5 +24,6 @@ public class Ejercicio6 {
         else
             System.out.println("No es divisible entre cinco");
 
+            entrada.close();
     }
 }

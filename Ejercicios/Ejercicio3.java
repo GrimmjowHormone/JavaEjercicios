@@ -16,7 +16,7 @@ public class Ejercicio3 {
         System.out.println(numero+" x  9 = "+numero*9);
         System.out.println(numero+" x  10 = "+numero*10);
    
-
+        entrada.close();
 
     }
 }

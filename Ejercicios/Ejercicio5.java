@@ -25,6 +25,6 @@ public class Ejercicio5 {
         }else{
             System.out.println("Introduce valores validos en las notas ");
         }
-
+        entrada.close();
     }
 }
