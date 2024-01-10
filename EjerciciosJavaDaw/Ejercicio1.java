@@ -1,3 +1,4 @@
+package EjerciciosJavaDaw;
 import java.util.Scanner;
 
 public class Ejercicio1 {
@@ -7,7 +8,7 @@ public class Ejercicio1 {
     // el mayor y el menor y las veces que aparece cada uno.
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        int mayor = Integer.MIN_VALUE, menor = Integer.MAX_VALUE, contador = 0, minContador = 0, maxContador = 0, numero = 0;
+        int mayor = Integer.MIN_VALUE, menor = Integer.MAX_VALUE, minContador = 0, maxContador = 0, numero = 0;
         System.out.println("Introduce cuantos valores necesitas");
         int cantidad = entrada.nextInt();
 
