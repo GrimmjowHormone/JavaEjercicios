@@ -12,14 +12,14 @@ public class Ejercicio5 {
         int altura=entrada.nextInt();
        
         entrada.close();
-        for (int i = 1; i < altura; i++) {
-            System.out.println("x");
+        for (int i = 1; i <altura; i++) {
+            System.out.println("i");
             for (int j = 0; j <i; j++) {
-                System.out.print("x");
+                System.out.print("j ");
                
             }
             if (i==altura-1) {
-                System.out.println("x");
+                System.out.println("x ");
             }
         }
     }
