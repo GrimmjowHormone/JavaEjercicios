@@ -13,5 +13,6 @@ public class Ejercicio5 {
                 System.out.println(numero+" x "+(i+1));
             }
         }
+        entrada.close();
     }
 }

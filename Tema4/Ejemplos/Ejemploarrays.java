@@ -1,4 +1,4 @@
-package Tema4;
+package Tema4.Ejemplos;
 
 public class Ejemploarrays {
     public static void main(String[] args) {

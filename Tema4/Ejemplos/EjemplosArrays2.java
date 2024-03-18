@@ -1,4 +1,4 @@
-package Tema4;
+package Tema4.Ejemplos;
 
 import java.util.Random;
 

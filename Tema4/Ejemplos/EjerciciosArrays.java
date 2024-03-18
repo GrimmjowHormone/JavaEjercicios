@@ -1,6 +1,4 @@
-package Tema4;
-
-import java.util.Arrays;
+package Tema4.Ejemplos;
 
 public class EjerciciosArrays {
     // Crea un método que dado un Array de enteros y un valor entero, muestre la
